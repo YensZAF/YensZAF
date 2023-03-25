@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YensZAF
-- 👀 I’m interested in cyber security and development
-- 🌱 I’m currently learning to take the CySA+
+- 👀 I have a keen interested in Cyber Security and Development
+- 🌱 On a journey to get my eWPT and CySA+ certifications
 
 <!---
 YensZAF/YensZAF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
